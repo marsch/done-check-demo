@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+results/runs/
+results/logs/
+results/archive/
+results/progress.md
+results/.lock
