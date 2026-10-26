@@ -4,7 +4,7 @@ This repository compares four ways to tell a coding agent what "done" means. The
 
 Three ways use text that the agent reads. One way uses a hard gate: a check that the agent cannot change.
 
-The results are in [DAEMON/02](https://marioscheliga.com/blog/ai-agent-done-blueprint/).
+The results are in [DAEMON/02](https://marioscheliga.com/blog/ai-agent-definition-of-done/).
 
 ## The four variants
 
